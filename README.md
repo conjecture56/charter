@@ -1,17 +1,24 @@
 # Conjecture 56 Charter
 
-This repository contains the reference documents used to define and evolve the purpose, research direction, and impact criteria of Conjecture 56.
+Este repositorio reúne los documentos de referencia utilizados para definir y desarrollar el propósito, las líneas de investigación y los criterios de impacto de Conjecture 56.
 
-The material is preliminary. It records inputs for discussion and does not yet constitute a final mission statement.
+El material es preliminar: registra decisiones e insumos de trabajo, pero todavía no constituye una declaración definitiva de misión.
 
-## Documents
+## Líneas de investigación
 
-| Document | Purpose |
+| Línea | Pregunta central |
 |---|---|
-| [Escala de resultados e impacto](docs/conjecture56_escala_resultados_impacto.md) | Proposed framework for evaluating evidence, adoption, impact, and economic outcomes |
-| [Seguridad de agentes e IA de ejecución propia](docs/conjecture56_agent_security_local_ai.md) | Initial proposal for an applied research direction |
-| [Estado del arte del trabajo con LLM y agentes](docs/estado_del_arte_trabajo_con_llm_y_agentes.md) | GPT conversation collected as input for defining the project's objective |
+| [C56 Agent Systems Lab](docs/conjecture56_agent_security_local_ai.md) | ¿Cómo ejecutar agentes de IA de forma segura, controlable y económicamente eficiente? |
+| [C56 Agentic Engineering Lab](docs/conjecture56_agentic_engineering.md) | ¿Cómo organizar y evaluar el trabajo de ingeniería realizado por personas y agentes? |
 
-## Status
+## Marco de evaluación
 
-These documents are versioned working material. Claims, references, and proposed decisions must be reviewed before they are adopted as part of the Conjecture 56 charter.
+- [Escala de resultados e impacto](docs/conjecture56_escala_resultados_impacto.md): perfil de evidencias para registrar investigación, validación, aplicación, impacto y resultados económicos.
+
+## Insumos de referencia
+
+- [Estado del arte del trabajo con LLM y agentes](docs/estado_del_arte_trabajo_con_llm_y_agentes.md): conversación con GPT incorporada como insumo y sometida a verificación editorial.
+
+## Estado
+
+Las líneas y el marco son definiciones iniciales sujetas a revisión mediante evidencia y trabajo experimental. Los insumos de referencia no se consideran decisiones adoptadas automáticamente.

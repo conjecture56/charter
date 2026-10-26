@@ -1,7 +1,8 @@
-# Conjecture 56
+# Conjecture 56 — Sistemas de agentes seguros y eficientes
 
-**Tipo:** Línea de investigación aplicada seleccionada  
-**Disciplinas principales:** Informática e inteligencia artificial
+- **Tipo:** Línea de investigación aplicada seleccionada
+- **Nombre de trabajo:** C56 Agent Systems Lab
+- **Disciplinas principales:** Informática e inteligencia artificial
 
 ## 1. Elección
 

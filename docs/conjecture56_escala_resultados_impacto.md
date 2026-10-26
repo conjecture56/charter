@@ -3,6 +3,8 @@
 **Tipo:** Marco de evaluación de proyectos  
 **Propósito:** evaluar resultados de investigación aplicada desde su reproducibilidad hasta sus efectos económicos y productivos.
 
+La escala describe un **perfil de evidencias**, no una puntuación acumulativa. Cada nivel se evalúa y registra por separado porque un proyecto puede demostrar resultados en una dimensión sin haber completado las anteriores.
+
 ## 1. Escala
 
 | Nivel | Dimensión | Evidencia principal |
@@ -73,7 +75,18 @@ El resultado económico se convierte en actividad productiva que puede sosteners
 3. **Distinguir evidencia observada de expectativa.** Un nivel proyectado no es un nivel alcanzado.
 4. **Evaluar por proyecto.** El nivel de un proyecto no se transfiere automáticamente a los demás ni a toda Conjecture 56.
 5. **Conservar los resultados intermedios.** Un proyecto que llega al nivel 2 o 3 puede aportar conocimiento valioso aunque no alcance el nivel 5.
-6. **Interpretar la escala como una progresión orientativa.** Puede existir ingreso antes de una medición rigurosa de impacto, por ejemplo. En ese caso debe registrarse el logro económico sin atribuir automáticamente evidencia de los niveles que falten.
+6. **Evaluar cada nivel de manera independiente.** Puede existir ingreso antes de una medición rigurosa de impacto, por ejemplo. En ese caso debe registrarse el logro económico sin atribuir automáticamente evidencia de los niveles que falten.
+7. **No sumar ni promediar los niveles.** El resultado es un perfil de evidencias, no una calificación única ni un porcentaje de avance.
+
+### Estados de evidencia
+
+| Estado | Significado |
+|---|---|
+| **No evaluado** | Todavía no se examinó la evidencia del nivel |
+| **Sin evidencia** | Se evaluó el nivel y no existe evidencia suficiente |
+| **Evidencia parcial** | Existen indicios o artefactos, pero no satisfacen completamente el criterio |
+| **Alcanzado** | La evidencia disponible satisface el criterio del nivel |
+| **No aplica** | La dimensión no forma parte del alcance declarado del proyecto |
 
 ## 4. Registro recomendado para cada proyecto
 
@@ -81,14 +94,20 @@ El resultado económico se convierte en actividad productiva que puede sosteners
 # [Nombre del proyecto]
 
 - Estado: [investigación / validación / aplicación / comercialización]
-- Nivel más alto con evidencia completa: [1–6, o todavía ninguno]
-- Niveles con evidencia pendiente: [indicar]
 - Resultado técnico principal: [breve descripción]
 - Usuario u organización externa: [si corresponde]
 - Impacto medido: [métrica, referencia y resultado]
 - Resultado económico: [monto cobrado, fecha y concepto; si corresponde]
-- Evidencias: [enlaces a código, informes, mediciones, contratos o registros]
 - Próximo hito: [evidencia necesaria]
+
+| Nivel | Estado | Evidencias | Evidencia pendiente o próximo paso |
+|---|---|---|---|
+| 1. Investigación y desarrollo | [estado] | [enlaces o registros] | [indicar] |
+| 2. Validación externa | [estado] | [enlaces o registros] | [indicar] |
+| 3. Aplicación real | [estado] | [enlaces o registros] | [indicar] |
+| 4. Impacto medible | [estado] | [enlaces o registros] | [indicar] |
+| 5. Resultado económico | [estado] | [enlaces o registros privados o públicos] | [indicar] |
+| 6. Desarrollo productivo | [estado] | [enlaces o registros privados o públicos] | [indicar] |
 ```
 
 **Nota de confidencialidad:** los registros económicos y contractuales pueden mantenerse privados. La comunicación pública puede informar resultados agregados o verificables sin revelar información sensible de clientes.
